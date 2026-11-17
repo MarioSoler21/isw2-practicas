@@ -1,0 +1,12 @@
+{
+  "name": "practica-5-clinica-de-codigo",
+  "version": "1.0.0",
+  "description": "Práctica 5 · Clínica de código: enfermo.js → sano.js con tests de caracterización",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
