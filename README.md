@@ -9,7 +9,7 @@ Repositorio de prácticas del curso **Ingeniería de Software II**.
 - [Práctica 2 – Flujo profesional con Git](practica-2/flujo.md)
 - Práctica 3 – _pendiente_
 - Práctica 4 – _pendiente_
-- Práctica 5 – _pendiente_
+- [Práctica 5 – Clínica de código completa](practica-5/diagnostico.md)
 - Práctica 6 – _pendiente_
 - Práctica 7 – _pendiente_
 - Práctica 8 – _pendiente_
